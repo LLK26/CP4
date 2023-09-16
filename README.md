@@ -10,7 +10,7 @@ Utilizamos de um sistema arduíno para a criação de um semáforo com emissões
 1 Arduino; 1 Buzzer; 1 LED Vermelho; 1 LED Amarelo; 1 LED Verde;  3 Resistores de 220 ohms; 1 Protoboard; 6 Jumpers cables
 
 ## Video Explicativo
-https://drive.google.com/file/d/1s29G9PmL6IaoPNlDhd9K0woATGyzI8Bm/view?usp=sharing
+https://drive.google.com/file/d/10d0WymMC0F4sVI6brvHkpcuOO5BteTA1/view?usp=sharing
 
 ## Integrantes
 RM95384 - Leonardo Dantas Marques;
